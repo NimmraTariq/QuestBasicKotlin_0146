@@ -23,4 +23,5 @@ Class and Data classes
 
 Null safety
 <img width="1918" height="918" alt="image" src="https://github.com/user-attachments/assets/233b66b3-914d-4aba-af1c-fd45c0872052" />
-![Uploading image.png…]()
+<img width="1919" height="875" alt="image" src="https://github.com/user-attachments/assets/edca6fb3-f7d6-43d7-b7d2-ef143580b3b7" />
+
