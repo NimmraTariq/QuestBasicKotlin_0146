@@ -7,3 +7,6 @@ Tipe Data Dasar
 Collection
 <img width="1919" height="911" alt="image" src="https://github.com/user-attachments/assets/adebc7fa-bdb1-4e5e-9b0a-6dfa5102ff9a" />
 <img width="1919" height="907" alt="image" src="https://github.com/user-attachments/assets/f6eed665-5e11-46ca-9952-7de204b8d94f" />
+
+Conditional expressions
+<img width="1919" height="869" alt="image" src="https://github.com/user-attachments/assets/928f0684-29c5-431a-894b-27a24651812e" />
