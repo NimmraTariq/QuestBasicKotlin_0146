@@ -13,3 +13,6 @@ Conditional expressions
 
 Ranges dan Loops
 <img width="1919" height="824" alt="image" src="https://github.com/user-attachments/assets/d06a6260-fe99-4fee-80d0-8699a2ba7020" />
+
+Functions
+<img width="1919" height="958" alt="image" src="https://github.com/user-attachments/assets/5c730dc4-f59a-4d0b-b071-a1dd7150359b" />
