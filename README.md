@@ -16,3 +16,7 @@ Ranges dan Loops
 
 Functions
 <img width="1919" height="958" alt="image" src="https://github.com/user-attachments/assets/5c730dc4-f59a-4d0b-b071-a1dd7150359b" />
+
+Class and Data classes
+<img width="1919" height="957" alt="image" src="https://github.com/user-attachments/assets/ad048838-3f78-49c5-8da5-af60266aeaa1" />
+<img width="1917" height="952" alt="image" src="https://github.com/user-attachments/assets/c7a708e2-f73a-4d03-8a79-d4e47a39ee56" />
