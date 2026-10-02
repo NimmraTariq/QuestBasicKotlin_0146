@@ -10,3 +10,6 @@ Collection
 
 Conditional expressions
 <img width="1919" height="869" alt="image" src="https://github.com/user-attachments/assets/928f0684-29c5-431a-894b-27a24651812e" />
+
+Ranges dan Loops
+<img width="1919" height="824" alt="image" src="https://github.com/user-attachments/assets/d06a6260-fe99-4fee-80d0-8699a2ba7020" />
