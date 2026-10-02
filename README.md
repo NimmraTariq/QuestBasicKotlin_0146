@@ -20,3 +20,7 @@ Functions
 Class and Data classes
 <img width="1919" height="957" alt="image" src="https://github.com/user-attachments/assets/ad048838-3f78-49c5-8da5-af60266aeaa1" />
 <img width="1917" height="952" alt="image" src="https://github.com/user-attachments/assets/c7a708e2-f73a-4d03-8a79-d4e47a39ee56" />
+
+Null safety
+<img width="1918" height="918" alt="image" src="https://github.com/user-attachments/assets/233b66b3-914d-4aba-af1c-fd45c0872052" />
+![Uploading image.png…]()
